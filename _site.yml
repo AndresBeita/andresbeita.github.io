@@ -1,0 +1,24 @@
+name: "Andrés Beita-Jiménez"
+output_dir: "."
+navbar:
+  title: "Andrés Beita-Jiménez"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Contact"
+      href: contact.html
+  right:
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/abeitaj
+    - icon: fa-github fa-lg
+      href: https://github.com/AndresBeita
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/andr%C3%A9s-beita-a4650b97/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

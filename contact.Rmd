@@ -1,0 +1,20 @@
+---
+output: html_document
+---
+
+<div style="margin-bottom:40px;">
+</div>
+
+### Feel free to contact me:
+<div style="margin-bottom:20px;">
+</div>
+
+#### andres.beita-jimenez@mi.mun.ca
+<div style="margin-bottom:10px;">
+</div>
+
+#### abeitaj@gmail.com
+<div style="margin-bottom:20px;">
+</div>
+
+#### Or connect with me on Twitter, GitHub or Linkedin  (links in top right).
