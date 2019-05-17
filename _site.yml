@@ -20,5 +20,5 @@ navbar:
       href: https://www.linkedin.com/in/andr%C3%A9s-beita-a4650b97/
 output:
   html_document:
-    theme: paper
+    theme: flatly
     css: 'styles.css'
