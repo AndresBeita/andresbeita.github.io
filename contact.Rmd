@@ -1,6 +1,15 @@
 ---
 output: html_document
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140504233-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140504233-1');
+</script>
 
 <div style="margin-bottom:40px;">
 </div>

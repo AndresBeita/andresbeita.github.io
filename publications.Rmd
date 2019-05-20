@@ -2,6 +2,15 @@
 title: "Publications"
 output: html_document
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140504233-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140504233-1');
+</script>
 
 #### 2019
 ##### **Beita-Jiménez, A.**, Alvarado, J.J., Mena, S. &  Guzmán, A.G. (2019). [Benefits of protection on reef fish assemblages in a human impacted region in Costa Rica.](files/Beitaetal2019_FishNorthPacific_OceansCoastalMngmt.pdf) Oceans and Coastal Management, 169, 165-170.
